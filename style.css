@@ -1,0 +1,36 @@
+h1 {
+    color: black;
+    text-align: center;
+    font-weight: bold;
+    font-size: 70px;
+}
+p,h2{
+    text-align: center;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: rgb(9, 9, 244);
+    border: 2px solid;
+    margin: 2;
+    padding: 40;    
+}
+body{
+    background-color: rgb(255,6,9); 
+}
+ol{
+	font-size: 15px;	
+}
+.links{
+	color: black;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+img{
+	 display:block;
+}
